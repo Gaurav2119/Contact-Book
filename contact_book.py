@@ -70,3 +70,5 @@ while True:
     close = input('Want to close the contact book: y/n \n -->')
     if close=='y' or close=='Y':
         break
+
+""" written by Gaurav Gupta"""
